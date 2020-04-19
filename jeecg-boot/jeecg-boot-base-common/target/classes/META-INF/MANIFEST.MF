@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: jeecg-boot-base-common
+Implementation-Version: 2.1.4
+Built-By: beaver
+Implementation-Vendor-Id: org.jeecgframework.boot
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/jeecg-boot-parent/jeecg-boot-base-common
+Created-By: Maven Integration for Eclipse
+
